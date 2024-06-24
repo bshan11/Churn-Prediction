@@ -51,6 +51,10 @@ jupyter notebook Churn_EDA.ipynb
 jupyter notebook Churn_Model.ipynb
 ```
 
+## Result
+
+With Random Forest Classifier, we are able to get quite good results i.e. 93.37 % accuracy, better than what we got from Decision Tree.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
