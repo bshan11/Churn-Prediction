@@ -1,4 +1,4 @@
-# Churn Prediction
+# Churn-Prediction
 
 This repository contains a machine learning project aimed at predicting customer churn. The project includes exploratory data analysis (EDA) and model building to understand and forecast which customers are likely to churn.
 
@@ -8,6 +8,7 @@ This repository contains a machine learning project aimed at predicting customer
 - [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Usage](#usage)
+- [Results](#results)
 - [License](#license)
   
 ## Project Structure
@@ -51,7 +52,7 @@ jupyter notebook Churn_EDA.ipynb
 jupyter notebook Churn_Model.ipynb
 ```
 
-## Result
+## Results
 
 With Random Forest Classifier, we are able to get quite good results i.e. 93.37 % accuracy, better than what we got from Decision Tree.
 
